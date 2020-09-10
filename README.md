@@ -55,12 +55,12 @@ If you want to cite the papers [[1]](https://ieeexplore.ieee.org/abstract/docume
 ```
 * Repository:
 ```
-@article{IEEE96_2019,
+@article{EVDrivingPatterns_2020,
 author = {OASYS},
-journal = {GitHub repository (https://github.com/groupoasys/data{\_}ieee96)},
-title = {{Data IEEE 96}},
-url = {https://github.com/groupoasys/data{\_}ieee96},
-year = {2019}
+journal = {GitHub repository (https://github.com/groupoasys/Data{\_}EV{\_}Driving{\_}Patterns)},
+title = {{Data EV Driving Patterns}},
+url = {https://github.com/groupoasys/Data{\_}EV{\_}Driving{\_}Patterns},
+year = {2020}
 }
 ```
 ## Do you want to contribute? 🕵️‍♂️
