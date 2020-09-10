@@ -18,7 +18,7 @@ This repository includes the data about the driving patterns of an EV-fleet for 
     
 - EV demand: This data includes the distance travelled per EV each day. This data is found in the following file:
 
-    * [Data_d](https://drive.google.com/file/d/1947OwAF6g8_j_ZhyDTn1Cmh50ALTYnuI/view?usp=sharing).
+    * [Data_d](https://drive.google.com/file/d/1WjIHemmhBf4QGY0Lw-CyqJFcifO2zzUX/view?usp=sharing).
 
 ## References 📚
 [1] Á. P. Cabrera, R. Fernández-Blanco, J. M. Morales and S. Pineda, "Day-ahead Operation of an Aggregator of Electric Vehicles via Optimization under Uncertainty," 2019 International Conference on Smart Energy Systems and Technologies (SEST), Porto, Portugal, 2019, pp. 1-6, doi: 10.1109/SEST.2019.8848991.
