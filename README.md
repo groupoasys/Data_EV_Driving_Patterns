@@ -6,7 +6,7 @@ The aim of this repository is to provide the details of the EV driving patterns 
 
 ## Contents 🎪
 
-This repository includes the data about the driving patterns of an EV-fleet for one year. This data set is synthetically derived the availability profiles and energy required for transportation of EVs from the data collected by the [National Household Travel Survey](https://nhts.ornl.gov/). This EV-fleet is made up of 1000 EVs. Each data file is explained below: 
+This repository includes the data about the driving patterns of an EV-fleet for one year. This data set contains the availability profiles and the energy required for transportation of EVs, which are synthetically derived from the data collected by the [National Household Travel Survey](https://nhts.ornl.gov/). This EV-fleet is made up of 1000 EVs. Each data file is explained below: 
 
 - Availability: The availability profiles show in which time periods the EV is available (the value is 1), to charge or discharge, and unavailable (the value is 0). The following files of availability can be downloaded:
 
