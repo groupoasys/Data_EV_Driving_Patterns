@@ -2,7 +2,7 @@
 
 ## Goals 🏆
 
-The aim of this repository is to provide the details of the EV driving patterns data set used in papers [[1]](https://arxiv.org/abs/1908.00787) and [[2]](https://arxiv.org/abs/2002.07021). This article have been developed by some members of the [OASYS group](https://sites.google.com/view/groupoasys/home) thanks to the funding of the project [Flexanalytics (https://groupoasysflexanalytics.readthedocs.io/en/latest/). We suggest you to visit the related links to know more our research 😉
+The aim of this repository is to provide the details of the EV driving patterns data set used in papers [[1]](https://arxiv.org/abs/1908.00787) and [[2]](https://arxiv.org/abs/2002.07021). This article have been developed by some members of the [OASYS group](https://sites.google.com/view/groupoasys/home) thanks to the funding of the project [Flexanalytics](https://groupoasysflexanalytics.readthedocs.io/en/latest/). We suggest you to visit the related links to know more our research 😉
 
 ## Contents 🎪
 
@@ -21,17 +21,63 @@ This repository includes the data about the driving patterns of an EV-fleet for 
     * [Data_d](https://drive.google.com/file/d/1947OwAF6g8_j_ZhyDTn1Cmh50ALTYnuI/view?usp=sharing).
 
 ## References 📚
-[1] Á. Porras, R. Fernández-Blanco, J. M. Morales and S. Pineda, "Day-ahead Operation of an Aggregator of Electric Vehicles via Optimization under Uncertainty," 2019 International Conference on Smart Energy Systems and Technologies (SEST), Porto, Portugal, 2019, pp. 1-6, doi: 10.1109/SEST.2019.8848991.
+[1] Á. P. Cabrera, R. Fernández-Blanco, J. M. Morales and S. Pineda, "Day-ahead Operation of an Aggregator of Electric Vehicles via Optimization under Uncertainty," 2019 International Conference on Smart Energy Systems and Technologies (SEST), Porto, Portugal, 2019, pp. 1-6, doi: 10.1109/SEST.2019.8848991.
 
 [2] Á. Porras, R. Fernández-Blanco, J. M. Morales and S. Pineda, "An Efficient Robust Approach to the Day-ahead Operation of an Aggregator of Electric Vehicles," in IEEE Transactions on Smart Grid, doi: 10.1109/TSG.2020.3004268.
+
+[3] OASYS, Data EV Driving Patterns, Github repository (https://github.com/groupoasys/Data_EV_Driving_Patterns) , 2020
+
+## How to cite the repository and the paper? 📝
+
+If you want to cite the papers [[1]](https://ieeexplore.ieee.org/abstract/document/8848991) and [[2]](https://ieeexplore.ieee.org/document/9122589), or this repo, [[3]](https://github.com/groupoasys/Data_DrivingPatterns_EVs), please use the following bib entries:
+
+* Article 1:
+```
+@INPROCEEDINGS{8848991,
+  author={Á. P. {Cabrera} and R. {Fernández-Blanco} and J. M. {Morales} and S. {Pineda}},
+  booktitle={2019 International Conference on Smart Energy Systems and Technologies (SEST)}, 
+  title={Day-ahead Operation of an Aggregator of Electric Vehicles via Optimization under Uncertainty}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={1-6},}
+```
+* Article 2:
+```
+@ARTICLE{9122589,
+  author={Á. {Porras} and R. {Fernández-Blanco} and J. M. {Morales} and S. {Pineda}},
+  journal={IEEE Transactions on Smart Grid}, 
+  title={An Efficient Robust Approach to the Day-ahead Operation of an Aggregator of Electric Vehicles}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-1},}
+```
+* Repository:
+```
+@article{IEEE96_2019,
+author = {OASYS},
+journal = {GitHub repository (https://github.com/groupoasys/data{\_}ieee96)},
+title = {{Data IEEE 96}},
+url = {https://github.com/groupoasys/data{\_}ieee96},
+year = {2019}
+}
+```
+## Do you want to contribute? 🕵️‍♂️
+ 
+ Please, do it 😋 Any feedback is welcome 🤗 so feel free to ask or comment anything you want via a Pull Request in this repo.
+ If you need extra help, you can ask Álvaro Porras (alvaroporras19@gmail.com).
 
  ## Contributors 🌬☀
  
  * [OASYS group](http://oasys.uma.es) -  groupoasys@gmail.com
+ 
+ ## Developed by 👨‍💻
+ * [Álvaro Porras](https://www.researchgate.net/profile/Alvaro_Porras_Cabrera2) - alvaroporras19@gmail.com
 
  ## License 📝
  
-    Copyright 2019 Optimization and Analytics for Sustainable energY Systems (OASYS)
+    Copyright 2020 Optimization and Analytics for Sustainable energY Systems (OASYS)
 
     Licensed under the GNU General Public License, Version 3 (the "License");
     you may not use this file except in compliance with the License.
