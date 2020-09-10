@@ -63,16 +63,16 @@ url = {https://github.com/groupoasys/Data{\_}EV{\_}Driving{\_}Patterns},
 year = {2020}
 }
 ```
-## Do you want to contribute? 🕵️‍♂️
+## Do you want to contribute? 🕵🏾‍♂️
  
- Please, do it 😋 Any feedback is welcome 🤗 so feel free to ask or comment anything you want via a Pull Request in this repo.
+ Please, do it 😏 Any feedback is welcome 🤗 so feel free to ask or comment anything you want via a Pull Request in this repo.
  If you need extra help, you can ask Álvaro Porras (alvaroporras19@gmail.com).
 
  ## Contributors 🌬☀
  
  * [OASYS group](http://oasys.uma.es) -  groupoasys@gmail.com
  
- ## Developed by 👨‍💻
+ ## Developed by 👨🏾‍💻
  * [Álvaro Porras](https://www.researchgate.net/profile/Alvaro_Porras_Cabrera2) - alvaroporras19@gmail.com
 
  ## License 📝
