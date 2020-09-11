@@ -2,7 +2,7 @@
 
 ## Goals 🏆
 
-The aim of this repository is to provide the details of the EV driving patterns data set used in papers [[1]](https://arxiv.org/abs/1908.00787) and [[2]](https://arxiv.org/abs/2002.07021). This article have been developed by some members of the [OASYS group](https://sites.google.com/view/groupoasys/home) thanks to the funding of the project [Flexanalytics](https://groupoasysflexanalytics.readthedocs.io/en/latest/). We suggest you to visit the related links to know more our research 😉
+The aim of this repository is to provide the details of the EV driving patterns data set used in papers [[1]](https://arxiv.org/abs/1908.00787) and [[2]](https://arxiv.org/abs/2002.07021). These articles have been developed by some members of the [OASYS group](https://sites.google.com/view/groupoasys/home) thanks to the funding of the project [Flexanalytics](https://groupoasysflexanalytics.readthedocs.io/en/latest/). We suggest you to visit the related links to know more our research 😉
 
 ## Contents 🎪
 
